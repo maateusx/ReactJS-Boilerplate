@@ -1,4 +1,44 @@
-# Getting Started with Create React App
+# ReactJS Blank Boilerplate
+
+This is a blank boilerplate for ReactJS.
+
+## Installation
+
+Clone this repository
+```bash
+git clone https://github.com/maateusx/ReactJS-Boilerplate
+cd ReactJS-Boilerplate
+```
+
+And use a package manager to install, yarn or npm.
+```bash
+npm install
+```
+
+## Features
+- Folder structure
+- API
+- Theme
+- React Router
+- React Toastify
+- Styled Components
+- Formik and Yup
+- Skeleton Loading
+- Easy peasy
+- Material UI
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
