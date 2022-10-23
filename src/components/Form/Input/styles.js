@@ -1,5 +1,5 @@
 import Styled from 'styled-components';
-import MuiTextField from '@material-ui/core/TextField';
+import MuiTextField from '@mui/material/TextField';
 
 export const TextField = Styled(MuiTextField)`
   background-color: #fff;

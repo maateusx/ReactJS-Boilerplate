@@ -6,9 +6,9 @@ import {
   DialogContent,
   DialogTitle,
   Grid,
-} from '@material-ui/core';
+} from '@mui/material';
 
-import CloseIcon from '@material-ui/icons/Close';
+import CloseIcon from '@@mui/icons-material/Close';
 
 import * as Styled from './styles';
 

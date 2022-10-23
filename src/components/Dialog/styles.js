@@ -1,5 +1,5 @@
 import Styled from 'styled-components';
-import { Dialog as MuiDialog, Grid } from '@material-ui/core';
+import { Dialog as MuiDialog, Grid } from '@mui/material';
 
 export const CloseButton = Styled(Grid)`
   background-color: #91A3AD;

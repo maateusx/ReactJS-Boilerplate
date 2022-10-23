@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { MenuItem } from '@material-ui/core';
+import { MenuItem } from '@mui/material';
 
 import * as Styled from './styles';
 

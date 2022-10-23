@@ -1,5 +1,5 @@
 import Styled from 'styled-components';
-import { Button as MuiButton } from '@material-ui/core';
+import { Button as MuiButton } from '@mui/material';
 
 const Button = Styled(MuiButton)`
   background-color: ${({ background, theme }) => background ? background : theme.white.primary} !important;
